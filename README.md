@@ -1,6 +1,6 @@
 # 👨‍💻 Rahul D Korave — Data Analyst Portfolio
 
-Hi there! I'm **Rahul D. Korave**, a passionate **Data Analyst** with hands-on experience supporting engineering and design teams through data-driven insights, analytical reporting, and interactive dashboard solutions. Skilled in automating reporting processes, managing PLM (ENOVIA) datasets, and analysing operational performance across manufacturing and product development environments, I enjoy converting complex technical data into meaningful business insights that enhance productivity, accuracy, and decision-making.
+Hi there! I'm **Rahul D Korave**, a passionate **Data Analyst** with hands-on experience supporting engineering and design teams through data-driven insights, analytical reporting, and interactive dashboard solutions. Skilled in automating reporting processes, managing PLM (ENOVIA) datasets, and analysing operational performance across manufacturing and product development environments, I enjoy converting complex technical data into meaningful business insights that enhance productivity, accuracy, and decision-making.
 
 ---
 
@@ -116,7 +116,7 @@ Hi there! I'm **Rahul D. Korave**, a passionate **Data Analyst** with hands-on e
 - 📧 **Email:** rahulkorave@gmail.com
 - 📱 **Mobile / WhatsApp:** +91 748339069
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rahul-korave-99a912157/
-- 🐙 **GitHub:** *(Portfolio link coming soon)*
+- 🐙 **GitHub:** https://rahul1008-k.github.io/Rahul-D-Korave/
 
 ---
 
