@@ -12,7 +12,7 @@ Hi there! I'm **Rahul D. Korave**, a passionate **Data Analyst** with strong exp
 
 ### **Languages & Tools**
 - **Power BI, Excel, SQL, Python, Tableau**
-- **Jupyter Notebook, GitHub, Jira, MS Office**
+- **Jupyter Notebook, Jira, MS Office**
 
 ### **Libraries & Concepts**
 - Pandas, NumPy, Matplotlib, DAX, ETL, Data Modelling
@@ -87,11 +87,31 @@ Hi there! I'm **Rahul D. Korave**, a passionate **Data Analyst** with strong exp
 
 ---
 
-## 🔗 Roles I Align With
+## 📌 Roles I Align With
 
-- Data Analyst | BI Developer | Reporting Analyst
-- Business Analyst (Data Focused)
-- Future Learning Path: ETL pipelines, Cloud Analytics, ML fundamentals
+- **Data Analyst**
+  - Creates structured analytical reports and dashboards to support engineering and leadership decision-making.
+  - Performs data cleaning, transformation, and KPI-based insights for business operations.
+  - Helps improve workflow efficiency through automation and analytics solutions.
+
+- **BI (Business Intelligence) Developer**
+  - Designs interactive dashboards using Power BI with KPI cards, slicers, charts, and drill-through insights.
+  - Develops DAX measures, data models, and reporting automation for Sales, HR, Finance & Manufacturing analytics.
+  - Converts business requirements into BI reporting frameworks.
+
+- **Reporting Analyst**
+  - Builds scheduled and ad-hoc reports for departmental performance monitoring.
+  - Tracks KPIs and operational metrics with structured datasets and reporting accuracy.
+  - Creates insights such as revenue vs expense analysis, attrition metrics, and manufacturing downtime reductions.
+
+- **Business Analyst (Data Focused)**
+  - Collaborates with cross-functional teams to interpret insights and support engineering & operational decisions.
+  - Translates analytical findings into actionable recommendations, improving process and productivity.
+  - Supports audits, compliance documentation, and workflow optimization initiatives.
+
+- **Future Learning Path**
+  - ETL pipeline development | Cloud Analytics | Advanced DAX | Python for automation
+
 
 ---
 
