@@ -1,6 +1,6 @@
 # 👨‍💻 Rahul D Korave — Data Analyst Portfolio
 
-Hi there! I'm **Rahul D. Korave**, a passionate **Data Analyst** with strong expertise in building interactive dashboards, automating reporting, and enabling data-driven decision-making across **Sales, Finance, HR & Manufacturing** domains. I enjoy transforming raw datasets into meaningful insights that solve real business problems and support strategic planning.
+Hi there! I'm **Rahul D. Korave**, a passionate **Data Analyst** with hands-on experience supporting engineering and design teams through data-driven insights, analytical reporting, and interactive dashboard solutions. Skilled in automating reporting processes, managing PLM (ENOVIA) datasets, and analysing operational performance across manufacturing and product development environments, I enjoy converting complex technical data into meaningful business insights that enhance productivity, accuracy, and decision-making.
 
 ---
 
