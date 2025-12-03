@@ -43,9 +43,14 @@ Detail-oriented **Data Analyst** with hands-on experience building interactive d
 | Project | Tools | Description |
 |--------|--------|-------------|
 | Blinkit Sales Analytics Dashboard | Power BI | Sales & category insights via KPIs, slicers & visuals |
+
 | Finance Analytics Dashboard | Power BI, Excel | Revenue vs expense review & performance tracking |
+
 | HR Analytics Dashboard | Power BI | Workforce attrition & demographics analysis |
+[📄 View Blinkit Sales Dashboard (PDF)](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/HR%20Dashboard.pdf)
+
 | Sales Performance Dashboard | Power BI | DAX insights for revenue, regions & product trends |
+
 | Manufacturing Analytics (JLR Case Study) | Excel / BI | Downtime & training data for operational improvements |
 
 ---
