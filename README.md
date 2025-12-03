@@ -1,87 +1,104 @@
-# 👋 Hi, I'm **Rahul D. Korave**
-### Data Analyst | Power BI | Excel | SQL | Python
+# 👨‍💻 Rahul D. Korave — Data Analyst Portfolio
 
-Detail-oriented **Data Analyst** skilled in transforming raw data into meaningful insights through interactive dashboards, automation, and KPI-driven reporting. Experienced in developing analytics solutions across **Sales, Finance, HR & Manufacturing domains**. Strong engineering foundation with expertise in **workflow optimisation, PLM data management, and analytical problem-solving**.
-
----
-
-## 🧠 Skills & Tools
-
-### **🔎 Data Analytics & BI**
-Power BI | Excel | SQL | Python | Tableau  
-Data Modelling | Dashboard Design | KPI Reporting | ETL | DAX
-
-### **⚙ Technical Tools**
-Jira | PLM ENOVIA | MS Office | CATIA V5 | Fusion360 | GitHub | Jupyter Notebook
-
-### **📈 Statistics & Data Processing**
-VLOOKUP / XLOOKUP | Pivot Tables | Joins | Aggregations  
-Pandas | NumPy | Matplotlib | Probability | Correlation | Hypothesis Testing
+Hi there! I'm **Rahul D. Korave**, a passionate **Data Analyst** with strong expertise in building interactive dashboards, automating reporting, and enabling data-driven decision-making across **Sales, Finance, HR & Manufacturing** domains. I enjoy transforming raw datasets into meaningful insights that solve real business problems and support strategic planning.
 
 ---
 
-## 💼 Professional Experience
+## 🧠 Skills & Technologies
 
-### **Tata Technologies Ltd — Pune, India**  
-**Deputy Design Engineer / Data Analyst | Aug 2022 – Present**
-- Designed and delivered interactive analytical dashboards for engineering and management teams.
-- Automated reporting processes to reduce manual work and decision-making delays.
-- Managed and maintained PLM (ENOVIA) datasets ensuring data quality and structural consistency.
-- Generated VISBOM/PDM reporting insights, supporting engineering productivity and quality improvements.
+### **Languages & Tools**
+- **Power BI, Excel, SQL, Python, Tableau**
+- **Jupyter Notebook, GitHub, Jira, MS Office**
 
-### **KHK Scaffolding & Formwork LLC — Dubai, UAE**  
-**Tool & Die Maker | Jul 2019 – Sep 2021**
-- Created structured manufacturing datasets for process analysis and inspection reporting.
-- Improved operational efficiency by reducing rework rates through data-driven insights.
-- Supported quality audits, certification documentation & compliance reporting.
-- Reduced material waste by implementing corrective measures based on production data trends.
+### **Libraries & Concepts**
+- Pandas, NumPy, Matplotlib, DAX, ETL, Data Modelling
+- Probability, Hypothesis Testing, Correlation, Pivot Tables, Joins
+
+### **Domains**
+- Sales | Finance | HR Analytics | Manufacturing | Reporting Automation
 
 ---
 
-## 📊 Featured Projects
+## 📁 Projects
 
-| Project | Tools | Description | PDF Link |
-|---------|--------|--------------|-----------|
-| **Blinkit Sales Analytics Dashboard** | Power BI | Developed a comprehensive sales performance analysis dashboard with KPIs including **Total Sales (1202K)**, **Average Rating (3.92)**, and **8523 items sold**. Visualised **sales contribution by outlet tiers, fat content segmentation, and item category trends**, enabling business optimisation. 
-| [📄 View PDF](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/RAHUL_BLINKIT_DASHBOARD.pdf) |
+### 1. 🛒 **Blinkit Sales Analytics Dashboard**
+**Goal:** Analyze sales performance by outlet type, product category & location to support revenue strategy.  
+**Tech Stack:** Power BI  
+- Total Sales: **1202K**, Average Rating: **3.92**, No. of Items: **8523**
+- Identified top-selling categories (**Fruits & Vegetables, Snacks**) and **Tier-3 outlets as highest revenue contributors (472K)**  
+- Enabled stakeholders to analyze year-wise sales trends and customer behavior insights  
+📄 **Dashboard PDF:**  
+[🔗 View Blinkit Dashboard](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/RAHUL_BLINKIT_DASHBOARD.pdf)
 
-| **Finance Analytics Dashboard** | Power BI, Excel | Built a financial insights dashboard showing **77M total profit**, **26M total expenses**, and quarterly revenue trends. Included departmental goal achievement visuals indicating performance >4000% over target and revenue distribution by department & revenue type. 
-| [📄 View PDF](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/Rahul%20Finance%20dashboard.pdf) |
+---
 
-| **HR Employee Distribution Dashboard** | Power BI | Created an HR analytics dashboard covering gender, age, race, and geographic distribution trends. Highlights include **employee growth 2000–2020**, **average employment of 7 years**, **location split: 75% HQ & 25% remote**, and **termination rates across departments**. | [📄 View PDF](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/HR%20Dashboard.pdf) |
+### 2. 💰 **Finance Analytics Dashboard**
+**Goal:** Provide financial visibility for leadership to monitor KPIs like profit, expenses, and departmental goal achievement.  
+**Tech Stack:** Power BI, Excel  
+- Total Profit: **77M**, Total Expenses: **26M**
+- Automated financial reporting to track quarterly revenue and department contribution
+- Visualized performance vs goals (**exceeding targets by up to 4,483%**)  
+📄 **Dashboard PDF:**  
+[🔗 View Finance Dashboard](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/Rahul%20Finance%20dashboard.pdf)
 
-| **Sales Performance Dashboard** | Power BI | Built an interactive dashboard to monitor sales trends across product categories, regions and time periods using DAX measures & visual storytelling. | -- |
+---
 
-| **Manufacturing Analytics (JLR Case Study)** | Excel / BI | Analysed downtime, workforce training effectiveness, and production efficiency, supporting lean improvement cycles in manufacturing. | -- |
+### 3. 👥 **HR Employee Distribution Dashboard**
+**Goal:** Help HR teams analyze workforce demographics, attrition insights & diversity distribution.  
+**Tech Stack:** Power BI  
+- **Employee growth trend from 2000–2020**, **Average employment duration 7 years**
+- 75% employees at HQ vs 25% remote, termination trend analysis by department
+- Workforce segmentation by gender, age groups, departments & states  
+📄 **Dashboard PDF:**  
+[🔗 View HR Dashboard](https://github.com/Rahul1008-k/Rahul-D-Korave./blob/main/HR%20Dashboard.pdf)
+
+---
+
+### 4. 📈 **Sales Performance Dashboard**
+**Tech Stack:** Power BI  
+- Built DAX-powered visuals for revenue insights across regions and product categories
+- Used slicers & dynamic KPIs to monitor sales trends and performance comparison
+
+---
+
+### 5. 🏭 **Manufacturing Analytics — JLR Case Study**
+**Tech Stack:** Excel / BI  
+- Analyzed downtime disruptions and training efficiency data supporting productivity improvement
+- Enabled operational decision-making for workflow optimisation
+
+---
+
+## 🏅 Certifications
+
+- **Data Analytics — Radical Technologies (Power BI, Excel, SQL, Python)**
+- **Career Essentials in Data Analysis — Microsoft & LinkedIn (Aug 2025)**
 
 ---
 
 ## 🎓 Education
-- **B.Tech in Engineering Technology – BITS Pilani (2024 – Present)**
-- **PGDM in Operations Management – MITSDE (2024)**
-- **Diploma in Tool & Die Making – NTTF Dharwad (2016–2019)**
+
+- **B.Tech in Engineering Technology — BITS Pilani (2024–Present)**
+- **PGDM in Operations Management — MITSDE (2024)**
+- **Diploma in Tool & Die Making — NTTF Dharwad (2016–2019)**
 
 ---
 
-## 📜 Certifications
-- **Data Analytics – Radical Technologies** (Power BI, Python, Excel, Data Cleaning)
-- **Career Essentials in Data Analysis – Microsoft & LinkedIn** (Aug 2025)
+## 🔗 Roles I Align With
+
+- Data Analyst | BI Developer | Reporting Analyst
+- Business Analyst (Data Focused)
+- Future Learning Path: ETL pipelines, Cloud Analytics, ML fundamentals
 
 ---
 
-## 📬 Contact & Socials
-📧 **Email:** rahulkorave@gmail.com  
-📱 **Mobile / WhatsApp:** +91 7483390679  
-🔗 **LinkedIn:** https://www.linkedin.com/in/rahul-korave-99a912157/  
-💻 **GitHub:** *(Portfolio link coming soon)*
+## 📬 Let’s Connect!
+
+- 📧 **Email:** rahulkorave@gmail.com
+- 📱 **Mobile / WhatsApp:** +91 748339069
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rahul-korave-99a912157/
+- 🐙 **GitHub:** *(Portfolio link coming soon)*
 
 ---
 
-## 🌟 Personal Details
-- **DOB:** 23 Aug 2000
-- **Languages:** English, Hindi, Marathi, Kannada
+> “Data is a powerful tool that transforms decisions, accelerates innovation, and shapes better business outcomes.”
 
----
-
-### 💡 Thanks for visiting my portfolio!
-✨ *If you like my work, feel free to connect — always open to collaborations & opportunities.* ✨
