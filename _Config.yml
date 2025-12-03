@@ -1,5 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [YOUR NAME]
-description: [Turning Data into insights]
+title: Rahul D Korave
+description: Detail-oriented Data Analyst with hands-on experience in transforming raw data into meaningful insights through interactive dashboards, KPI reporting, and automated analytical solutions. Skilled in Power BI, Excel, SQL, and Python, with real-world project experience across Sales, Finance, HR & Manufacturing analytics. Strong ability to interpret business requirements, perform statistical analysis, and communicate insights effectively to support decision-making and process improvement. Passionate about building data-driven solutions and advancing toward BI development and data engineering capabilities.
